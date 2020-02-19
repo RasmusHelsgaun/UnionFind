@@ -2,4 +2,4 @@
 
 ## UnionFind
 **Language: Java**  
-Each class has a main class to display a test of the code!  
+Each class has a main to display a test of the code!  
